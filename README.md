@@ -25,7 +25,7 @@ Please answer the following questions below, you may edit the readme file to inc
 1. How would you describe acessibility on the web to someone new to programming? acessibility is the ability for disabled people and mobile users to use a website 
 2. Talk about 3 different things you can do to ensure your website is accessible. you can have keyboard accesibilty, alternate text for images for the visually impaired, and transcripts for the deaf0
 3. How would you explain the concept of a variable to someone new to programming? a way of storing information whether name or number
-4. What is the purpose of using functions in code? modules of code that accomplish a certain task when fed information
+4. What is the purpose of using functions in code? Modules of code that accomplish a certain task when fed information.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
